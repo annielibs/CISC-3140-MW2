@@ -1,6 +1,5 @@
 ### To Do List for Spring 2021
 - [x] [Lab 0](https://docs.google.com/document/d/16lCuNDfjTnwWGZ26JIdZMaa76AXRDdCI1dZ8uCdgldo/edit) - due 2/7/2021
-- [x] Review notes from [Lecture 1](https://docs.google.com/presentation/d/1iZ4JECgPQwAJDCw3PJkySlBYmSsb0rSM9_kkzrME3d8/edit)
 - [x] [Reflection 1](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 2/9/2021
 - [x] [Lab 1](https://docs.google.com/document/d/1zaxVQ1WaLGyLyr7CYjzHljQkI7UkNmin3ouInPSHDWs/edit) - due 2/17/2021 
 - [x] [Lab 2](https://docs.google.com/document/d/1IG6UOWEqg_yJdGe4xtmqw5ZrtOgot6p4d5uhb30YO48/edit) - due 2/22/2021
