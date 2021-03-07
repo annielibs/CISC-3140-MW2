@@ -1,12 +1,24 @@
 Part III. Using the command line to write up the above notes
+
 Shortcuts: 
-1. Type nano [fileName] to open an existing file, or create a new file, and then open the text editor window 
-	a. I wrote nano Lab4
-	b. (If you want to open a file with the cursor on a specific line /character use the following syntax):
-	nano +line_number,character_number filename
+	1. Type nano [fileName] to open an existing file, or create a new file, and then open the text editor window 
+		a. I wrote nano Lab4
+		b. (If you want to open a file with the cursor on a specific line /character use the following syntax):
+		nano +line_number,character_number filename
 2. To move the cursor to a specific line and character number, use the Ctrl+_ (where the _ is a number)
 3. To cut type Ctrl+K
 4. To paste type Ctrl+U
 
 How to Save nano .txt Files to Your Github Repo: 
-1. Copy the  
+	1. Copy the HTTPS code from the clipboard under the Green 'Code' button with the down arow in your repo: https://github.com/annielibs/CISC-3140-MW2.git
+	2. Type into the command line: git clone https://github.com/annielibs/CISC-3140-MW2.git
+	3. You may be prompted to login to your git account; enter your credentials 
+	4. cd into the repo you want to move it to 
+	5. Type git add [name of file] 
+	6. Then git commit -m "[Along with a message of your choice about what you're doing]"
+	7. Then git -config --global user.email"yourEmailHere"
+	8. Then git --config --global user.name "Ann Liberman"
+	9. Then you will be prompted to enter your password
+	10. Then simply type git push (you may or may not have to also type origin master, try both ways if having issues)
+	11. And then you can check if it was uploaded by typing git status 
+		*Note, at any point during this process you can type git status if you need to see the status of your file/repo" 
