@@ -5,9 +5,9 @@ Shortcuts:
 		a. I wrote nano Lab4
 		b. (If you want to open a file with the cursor on a specific line /character use the following syntax):
 		nano +line_number,character_number filename
-2. To move the cursor to a specific line and character number, use the Ctrl+_ (where the _ is a number)
-3. To cut type Ctrl+K
-4. To paste type Ctrl+U
+	2. To move the cursor to a specific line and character number, use the Ctrl+_ (where the _ is a number)
+	3. To cut type Ctrl+K
+	4. To paste type Ctrl+U
 
 How to Save nano .txt Files to Your Github Repo: 
 	1. Copy the HTTPS code from the clipboard under the Green 'Code' button with the down arow in your repo: https://github.com/annielibs/CISC-3140-MW2.git
