@@ -1,0 +1,9 @@
+Part III. Using the command line to write up the above notes
+Shortcuts: 
+1. Type nano [fileName] to open an existing file, or create a new file, and then open the text editor window 
+a. I wrote nano Lab4
+b. (If you want to open a file with the cursor on a specific line /character use the following syntax):
+	nano +line_number,character_number filename
+2. To move the cursor to a specific line and character number, use the Ctrl+_ (where the _ is a number)
+3. To cut type Ctrl+K
+4. To paste type Ctrl+U
