@@ -9,7 +9,7 @@ Shortcuts:
 	3. To cut type Ctrl+K
 	4. To paste type Ctrl+U
 
-How to Save nano .txt Files to Your Github Repo: 
+How to Save nano.txt Files to Your Github Repo: 
 	1. Copy the HTTPS code from the clipboard under the Green 'Code' button with the down arow in your repo: https://github.com/annielibs/CISC-3140-MW2.git
 	2. Type into the command line: git clone https://github.com/annielibs/CISC-3140-MW2.git
 	3. You may be prompted to login to your git account; enter your credentials 
