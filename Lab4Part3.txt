@@ -1,4 +1,4 @@
-Part III. Using the command line to write up the above notes
+Part III. Using the command line to write up notes
 
 Shortcuts: 
 	1. Type nano [fileName] to open an existing file, or create a new file, and then open the text editor window 
