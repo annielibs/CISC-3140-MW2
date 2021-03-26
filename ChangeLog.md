@@ -12,3 +12,5 @@
 - Uploaded Lab3
 - Uploaded Lab4
 - Uploaded Lab5
+- Uploaded RepoMeta for Lab # 6
+- Uploaded Lab7
