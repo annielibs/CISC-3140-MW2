@@ -7,4 +7,6 @@
 - [x] [Reflection 2](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 3/3/2021 
 - [x] [Lab 4](https://docs.google.com/document/d/1aXlyaP-qCI1c9e49wsBDK_Sz4_2Tu7RLcpRaPJhR-KU/edit)	- due 3/8/2021
 - [x] [Lab 5](https://docs.google.com/document/d/1q87A3oALP8iKkcfT34a9k2X1H49DwP7fZ1UjV0UeCZo/edit)	- due 3/15/2021
-- [ ] [Lab 6](https://docs.google.com/document/d/16Uxst6-RSu78PZIk_9e9BGnVGASmzEWurwjuj9KNGUg/edit)	- due 3/22/2021
+- [x] [Lab 6](https://docs.google.com/document/d/16Uxst6-RSu78PZIk_9e9BGnVGASmzEWurwjuj9KNGUg/edit)	- due 3/22/2021
+- [x] [Lab 7](https://docs.google.com/document/d/1qRxEH_pbgJOBe4m5O4RHH7MhR-8wyuhur7GPTJx4YA0/edit) - due 4/5/2021
+- [ ] [Reflection 3](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 4/7/2021  
