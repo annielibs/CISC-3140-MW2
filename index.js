@@ -23,3 +23,4 @@
             }
             count.innerText = wordCount;
         }
+ 
