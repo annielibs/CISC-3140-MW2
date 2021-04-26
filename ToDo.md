@@ -11,4 +11,7 @@
 - [x] [Lab 7](https://docs.google.com/document/d/1qRxEH_pbgJOBe4m5O4RHH7MhR-8wyuhur7GPTJx4YA0/edit) - due 4/5/2021
 - [x] [Reflection 3](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 4/7/2021  
 - [x] [Lab 8](https://docs.google.com/document/d/1QEY7TIOFiuRjIoyuFgMYE39ZiS-jy-76c57QMyDIHfc/edit) - due 4/12/2021
-- [x] [Lab 9](https://docs.google.com/document/d/1IZ3nez1eLg1Psx_f8xN7NvQWkBqU5hiYJnPk3GDOWeo/edit) - due 4/19/2021  
+- [x] [Lab 9](https://docs.google.com/document/d/1IZ3nez1eLg1Psx_f8xN7NvQWkBqU5hiYJnPk3GDOWeo/edit) - due 4/19/2021
+- [x] [Reflection4](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 4/21/2021
+- [x] [Lab 10](https://docs.google.com/document/d/174pzqV8GzECb1G6rADwoYd-Foqyd6JvMFbMEdlJDFRk/edit) - due 4/26/2021
+- [ ] [Reflection 5](https://docs.google.com/forms/d/e/1FAIpQLSf3tOvRhuLmxy1URx0vLZvTszc31v98gsoA7ivwxzzsc3Xb3Q/viewform) - due 5/5/2021
